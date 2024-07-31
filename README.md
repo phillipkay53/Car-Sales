@@ -42,5 +42,16 @@ The dashboard provides insights into the following key performance indicators (K
 ## Files
 - **Data**: `Car Sales.xlsx` - Sample data used in the project.
 - **Visualizations**: Screenshots of the Power BI dashboard.
+- **Docs/Car Sales Report.pdf: Detailed project report.
 
 
+## How to Use
+1. Clone the repository: `git clone https://github.com/phillipkay53/Car-Sales-Dashboard.git`
+2. Open the Power BI file to explore the dashboard.
+3. View the `Docs/Car Sales Report.pdf` for the detailed project report.
+
+## Interactive Dashboard
+To view the interactive dashboard, visit the [Car Sales Dashboard](https://app.powerbi.com/reportEmbed?reportId=2a728846-bb64-4a69-b150-5d495231a932&autoAuth=true&ctid=c9c31096-0c85-4235-b1b6-a7c85ede6676).
+
+## GitHub Repository
+[Car Sales Dashboard](https://github.com/phillipkay53/Car-Sales-Dashboard.git)
