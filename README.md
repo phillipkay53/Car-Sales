@@ -1,4 +1,4 @@
-# Car-Sales (Power BI)
+# Car Sales (Power BI)
 
 ## Objective
 To analyze car sales data to identify trends, improve sales strategies, and optimize inventory management.
