@@ -42,7 +42,7 @@ The dashboard provides insights into the following key performance indicators (K
 ## Files
 - **Data**: [`Car Sales.xlsx`](https://github.com/phillipkay53/Car-Sales-Dashboard/raw/main/Data/Car%20Sales.xlsx) - Sample data used in the project.
 - **Visualizations**: Screenshots of the Power BI dashboard.
-- **[Docs/Car Sales Report.pdf](Docs/Car Sales Report.pdf): Detailed project report.
+- **Docs/Car Sales Report.pdf**: Detailed project report.
 
 
 ## How to Use
