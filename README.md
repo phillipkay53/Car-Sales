@@ -38,3 +38,9 @@ The dashboard provides insights into the following key performance indicators (K
 - **Inventory Management**: Adjust inventory based on sales trends and high-demand models.
 - **Targeted Marketing**: Implement marketing campaigns in regions with lower sales.
 - **Sales Strategy**: Focus on promoting top-performing models to increase revenue.
+
+## Files
+- **Data**: `Car Sales.xlsx` - Sample data used in the project.
+- **Visualizations**: Screenshots of the Power BI dashboard.
+
+
